@@ -1,1 +1,1 @@
-[Alt text](readme_markdown_resources/screenshot.png)
+![Alt text](readme_markdown_resources/screenshot.png)
