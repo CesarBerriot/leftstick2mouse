@@ -3,7 +3,7 @@ project(leftstick2mouse C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(leftstick2mouse #WIN32
+add_executable(leftstick2mouse WIN32
         src/main.c
         src/logic/logic.c
         src/logic/logic.h
